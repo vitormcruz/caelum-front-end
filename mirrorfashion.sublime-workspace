@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"fontS",
+				"font-style"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"table",
+				"table-column"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bortol",
+				"border-top-left-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"b",
+				"bannerDaVez"
+			],
+			[
+				"t",
+				"twitter"
+			],
+			[
+				"tet",
+				"text-indent"
+			],
+			[
+				"o",
+				"ol	Tag"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"me",
+				"menu-departamentos"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"pagr",
+				"padding-right"
+			],
+			[
+				"LI",
+				"li	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "produto.php",
+			"settings":
+			{
+				"buffer_size": 3187,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "checkout.php",
+			"settings":
+			{
+				"buffer_size": 2939,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/produto.css",
+			"settings":
+			{
+				"buffer_size": 2320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sobre.php",
+			"settings":
+			{
+				"buffer_size": 3505,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 3088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/estilos.css",
+			"settings":
+			{
+				"buffer_size": 3157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rodape.php",
+			"settings":
+			{
+				"buffer_size": 349,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wd5409/Desktop/mirror-fashion/rodape.php",
+		"/home/wd5409/Desktop/mirror-fashion/cabecalho.php",
+		"/home/wd5409/Desktop/mirror-fashion/sobre.php",
+		"/home/wd5409/Desktop/mirror-fashion/css/estilos.css",
+		"/home/wd5409/Desktop/mirror-fashion/css/mobile.css",
+		"/home/wd5409/Desktop/mirror-fashion/index.php",
+		"/home/wd5409/Desktop/mirror-fashion/index.html",
+		"/home/wd5409/Desktop/mirror-fashion/sobre.html",
+		"/home/wd5409/Desktop/mirror-fashion/css/sobre.css",
+		"/home/wd5409/Desktop/mirror-fashion/js/home.js",
+		"/home/wd5409/Desktop/mirror-fashion/js/sobre.js",
+		"/home/wd5409/Desktop/mirror-fashion/js/jquery.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"painel",
+			"busca",
+			"painel",
+			"novidades",
+			"validaBusca",
+			"css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "produto.php",
+					"settings":
+					{
+						"buffer_size": 3187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								728,
+								728
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "checkout.php",
+					"settings":
+					{
+						"buffer_size": 2939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2783,
+								2783
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1195.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/produto.css",
+					"settings":
+					{
+						"buffer_size": 2320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sobre.php",
+					"settings":
+					{
+						"buffer_size": 3505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 3088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2221,
+								2221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 27.0,
+						"translation.y": 1130.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/estilos.css",
+					"settings":
+					{
+						"buffer_size": 3157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2071,
+								2071
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1858.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "rodape.php",
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true
+}
